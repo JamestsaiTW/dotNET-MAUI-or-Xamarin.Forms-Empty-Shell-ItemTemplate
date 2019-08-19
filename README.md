@@ -7,12 +7,12 @@ This is a Xamarin.Forms "Empty Shell" Item Template (for Visual Studio). It will
 ## How to Setup?
 
 ### Visual Studio 2019
-Copy "Xamarin.Forms Shell Template.zip" file to "%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\Visual C#" folder.  
-將此 "Xamarin.Forms Shell 樣板.zip" 檔案複製到 "%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\Visual C#" 資料夾底下。  
+Copy "Xamarin.Forms Shell Empty Template.zip" file to "%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\Visual C#" folder.  
+將此 "Xamarin.Forms Shell 空白樣板.zip" 檔案複製到 "%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\Visual C#" 資料夾底下。  
 
 ### Visual Studio 2017
-Copy "Xamarin.Forms Shell Template.zip" file to "%USERPROFILE%\Documents\Visual Studio 2017\Templates\ItemTemplates\Visual C#" folder.  
-將此 "Xamarin.Forms Shell 樣板.zip" 檔案複製到 "%USERPROFILE%\Documents\Visual Studio 2017\Templates\ItemTemplates\Visual C#" 資料夾底下。  
+Copy "Xamarin.Forms Shell Empty Template.zip" file to "%USERPROFILE%\Documents\Visual Studio 2017\Templates\ItemTemplates\Visual C#" folder.  
+將 "Xamarin.Forms Shell 空白樣板.zip" 檔案複製到 "%USERPROFILE%\Documents\Visual Studio 2017\Templates\ItemTemplates\Visual C#" 資料夾底下。  
 
 ## How to use?
 
