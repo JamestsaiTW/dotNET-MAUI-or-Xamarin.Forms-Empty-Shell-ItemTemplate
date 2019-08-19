@@ -30,4 +30,4 @@ Copy "Xamarin.Forms Shell Empty Template.zip" file to "%USERPROFILE%\Documents\V
 
 3. Edit the `namespace` of Shell file for your project.  
  
-   編輯 Shell 檔案的中的 `namespace` 以符合你的專案。
+   編輯 Shell 檔案中的 `namespace` 以符合你的專案。
