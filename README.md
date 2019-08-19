@@ -1,6 +1,6 @@
-# Xamarin.Forms Empty Shell Item Template (for Visual Studio)
+# Xamarin.Forms Empty Shell ItemTemplate (for Visual Studio)
 
-This is a Xamarin.Forms "Empty Shell" Item Template (for Visual Studio). It will help you create an empty Shell file in your Xamarin.Forms  project easier.  
+This is a Xamarin.Forms "Empty Shell" ItemTemplate (for Visual Studio). It will help you create an empty Shell file in your Xamarin.Forms project easier.  
  
 這是 Xamarin.Forms 的 "空白 Shell" 的 Visual Studio 項目樣板。會協助你在現有的 Xamarin.Forms 專案當中更輕易地建立 Shell 檔案。  
 
@@ -28,4 +28,6 @@ Copy "Xamarin.Forms Shell Empty Template.zip" file to "%USERPROFILE%\Documents\V
    選擇在 "Visual C# 項目" 中的 "Shell 檔案", 編輯 "名稱" 並且點選 "新增"。  
    ![繁體中文](https://github.com/JamestsaiTW/Xamarin.Forms-Empty-Shell-Item-Template/blob/master/Screenshots/Traditional%20Chinese.jpg)
 
-
+3. Edit the `namespace` of Shell file for your project.  
+ 
+   編輯 Shell 檔案的中的 `namespace` 以符合你的專案。
