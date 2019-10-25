@@ -28,6 +28,6 @@ Copy "Xamarin.Forms Shell Empty Template.zip" file to "%USERPROFILE%\Documents\V
    選擇在 "Visual C# 項目" 中的 "Shell 檔案", 編輯 "名稱" 並且點選 "新增"。  
    ![繁體中文](https://github.com/JamestsaiTW/Xamarin.Forms-Empty-Shell-Item-Template/blob/master/Screenshots/Traditional%20Chinese.jpg)
 
-3. Edit the `namespace` of Shell file for your project.  
+3. Check the `namespace` of Shell .xaml/.cs file which is same as Xamarin.Forms project.  
  
-   編輯 Shell 檔案中的 `namespace` 以符合你的專案。
+   檢查 Shell .xaml/.cs 檔案中的 `namespace` 是否與 Xamarin.Forms 專案一致。
