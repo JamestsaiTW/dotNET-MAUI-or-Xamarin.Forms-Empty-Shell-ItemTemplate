@@ -47,7 +47,7 @@ Copy **Xamarin.Forms Shell Empty Template.zip** file to `%USERPROFILE%\Documents
    Select "Empty Shell File" in "C# Items", edit your file name and click "Add".  
    ![English](/Screenshots/English%20for%20VS2022.png)
 
-   選擇在 "C# 項目" 中的 "空白 Shell 檔案", 編輯 "名稱" 並且點選 "新增"。  
+   選擇在 "C# 項目" 中的 "空白 Shell 檔案", 編輯 "名稱" 並且點選 "新增"。    
    ![繁體中文](/Screenshots/Traditional%20Chinese%20for%20VS2022.png)
 
    ### Both .NET MAUI and Xamarin.Forms
