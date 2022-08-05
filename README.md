@@ -60,7 +60,7 @@ Copy **Xamarin.Forms Empty Shell Template.zip** file to `%USERPROFILE%\Documents
    #### For Xamarin.Forms
    Select "Empty Shell File" in the "Xamarin.Forms" section of "C# Items", edit your file name and click "Add".  
    ![English](/Screenshots/English%20for%20Xamarin.Forms%20in%20VS2022.png)
-   在 "C# 項目" 中找到 ".NET MAUI" 後，再選取 "空白 Shell 檔案", 編輯 "名稱" 並且點選 "新增"。
+   在 "C# 項目" 中找到 "Xamarin.Forms" 後，再選取 "空白 Shell 檔案", 編輯 "名稱" 並且點選 "新增"。
    ![繁體中文](/Screenshots/Traditional%20Chinese%20for%20Xamarin.Forms%20in%20VS2022.png)
 
    Visual Studio 2019 / 2017  
