@@ -44,33 +44,33 @@ Copy **Xamarin.Forms Empty Shell Template.zip** file to `%USERPROFILE%\Documents
    ### Only Xamarin.Forms
 
    Select "Empty Shell File" in "C# Items", edit your file name and click "Add".  
-   ![English](/Screenshots/English%20for%20VS2022.png)
+   ![English](/Screenshots/English%20for%20VS2022.png)  
 
    選擇在 "C# 項目" 中的 "空白 Shell 檔案", 編輯 "名稱" 並且點選 "新增"。    
-   ![繁體中文](/Screenshots/Traditional%20Chinese%20for%20VS2022.png)
+   ![繁體中文](/Screenshots/Traditional%20Chinese%20for%20VS2022.png)  
 
-   ### Both .NET MAUI and Xamarin.Forms
+   ### Both .NET MAUI and Xamarin.Forms  
 
-   #### For .NET MAUI
+   #### For .NET MAUI  
    Select ".NET MAUI Empty Shell (XAML)" in the ".NET MAUI" section of "C# Items", edit your file name and click "Add".  
-   ![English](/Screenshots/English%20for%20.NET%20MAUI%20in%20VS2022.png)
+   ![English](/Screenshots/English%20for%20.NET%20MAUI%20in%20VS2022.png)  
    在 "C# 項目" 中找到 ".NET MAUI" 後，再選取 ".NET MAUI 空白 Shell (XAML)" 項目, 編輯 "名稱" 並且點選 "新增"。 
-   ![繁體中文](/Screenshots/Traditional%20Chinese%20for%20.NET%20MAUI%20in%20VS2022.png)
+   ![繁體中文](/Screenshots/Traditional%20Chinese%20for%20.NET%20MAUI%20in%20VS2022.png)  
 
-   #### For Xamarin.Forms
+   #### For Xamarin.Forms  
    Select "Empty Shell File" in the "Xamarin.Forms" section of "C# Items", edit your file name and click "Add".  
-   ![English](/Screenshots/English%20for%20Xamarin.Forms%20in%20VS2022.png)
-   在 "C# 項目" 中找到 "Xamarin.Forms" 後，再選取 "空白 Shell 檔案", 編輯 "名稱" 並且點選 "新增"。
-   ![繁體中文](/Screenshots/Traditional%20Chinese%20for%20Xamarin.Forms%20in%20VS2022.png)
+   ![English](/Screenshots/English%20for%20Xamarin.Forms%20in%20VS2022.png)  
+   
+   在 "C# 項目" 中找到 "Xamarin.Forms" 後，再選取 "空白 Shell 檔案", 編輯 "名稱" 並且點選 "新增"。  
+   ![繁體中文](/Screenshots/Traditional%20Chinese%20for%20Xamarin.Forms%20in%20VS2022.png)  
 
    Visual Studio 2019 / 2017  
 
    Select "Empty Shell File" in "Visual C# Item", edit your file name and click "Add".  
-   Visual Studio 2019 / 2017  
-   ![English](/Screenshots/English%20for%20VS2017&2019.jpg)
+   ![English](/Screenshots/English%20for%20VS2017&2019.jpg)  
 
    在 "Visual C# 項目" 中選取 "空白 Shell 檔案", 編輯 "名稱" 並且點選 "新增"。  
-   ![繁體中文](/Screenshots/Traditional%20Chinese%20for%20VS2017&2019.jpg)
+   ![繁體中文](/Screenshots/Traditional%20Chinese%20for%20VS2017&2019.jpg)  
 
 3. Check the `namespace` of Shell .xaml/.cs file which is same as Xamarin.Forms project.  
  
