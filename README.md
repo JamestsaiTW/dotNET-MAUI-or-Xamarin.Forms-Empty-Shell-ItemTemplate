@@ -7,7 +7,7 @@ This is a .NET MAUI / Xamarin.Forms "Empty Shell" ItemTemplate (for Visual Studi
 ## How to Setup?
 
 ### Visual Studio 2022
-Copy **Xamarin.Forms Shell Empty Template.zip** file to `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\C#` folder.  
+Copy **Xamarin.Forms Empty Shell Template.zip** file to `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\C#` folder.  
  
 將此 **Xamarin.Forms Shell 的空白樣板.zip** 檔案複製到 `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\C#` 資料夾中。  
 
@@ -16,20 +16,20 @@ Copy **Xamarin.Forms Shell Empty Template.zip** file to `%USERPROFILE%\Documents
 Please, blowse to `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\C#` folder. Create two folders, one named `.NET MAUI` another one named `Xamarin.Forms`.  
 請先到 `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\C#` 資料夾中，建立名稱為 `.NET MAUI` 資料夾與 `Xamarin.Forms` 資料夾。  
 
-Copy **.NET MAUI Shell Empty Template.zip** file to `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\C#\.NET MAUI` folder.  
+Copy **.NET MAUI Empty Shell Template.zip** file to `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\C#\.NET MAUI` folder.  
 將 **.NET MAUI 的 Shell 空白樣板.zip** 檔案複製到 `%USERPROFILE%\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\.NET MAUI` 資料夾中。  
   
-Copy **Xamarin.Forms Shell Empty Template.zip** file to `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\C#\Xamarin.Forms` folder.  
+Copy **Xamarin.Forms Empty Shell Template.zip** file to `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\C#\Xamarin.Forms` folder.  
 將 **Xamarin.Forms Shell 的空白樣板.zip** 檔案複製到 `%USERPROFILE%\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\Xamarin.Forms` 資料夾中。  
 
   
 ### Visual Studio 2019
-Copy **Xamarin.Forms Shell Empty Template.zip** file to `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\Visual C#` folder.  
+Copy **Xamarin.Forms Empty Shell Template.zip** file to `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\Visual C#` folder.  
  
 將此 **Xamarin.Forms Shell 的空白樣板.zip** 檔案複製到 `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\Visual C#` 資料夾中。  
 
 ### Visual Studio 2017
-Copy **Xamarin.Forms Shell Empty Template.zip** file to `%USERPROFILE%\Documents\Visual Studio 2017\Templates\ItemTemplates\Visual C#` folder.  
+Copy **Xamarin.Forms Empty Shell Template.zip** file to `%USERPROFILE%\Documents\Visual Studio 2017\Templates\ItemTemplates\Visual C#` folder.  
  
 將 **Xamarin.Forms Shell 的空白樣板.zip** 檔案複製到 `%USERPROFILE%\Documents\Visual Studio 2017\Templates\ItemTemplates\Visual C#` 資料夾中。  
 
