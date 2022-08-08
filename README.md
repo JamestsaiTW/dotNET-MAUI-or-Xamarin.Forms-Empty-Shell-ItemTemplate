@@ -7,20 +7,30 @@ This is a .NET MAUI / Xamarin.Forms "Empty Shell" ItemTemplate (for Visual Studi
 ## How to Setup?
 
 ### Visual Studio 2022
-Copy **Xamarin.Forms Empty Shell Template.zip** file to `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\C#` folder.  
- 
-將此 **Xamarin.Forms Shell 的空白樣板.zip** 檔案複製到 `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\C#` 資料夾中。  
+1. Please, blowse to `%USERPROFILE%\Documents\Visual Studio 2022\Templates\ItemTemplates` folder by windows file explorer.  
+   請先透過檔案總管瀏覽到 `%USERPROFILE%\Documents\Visual Studio 2022\Templates\ItemTemplates` 資料夾中
 
-#### if you want to use .NET MAUI, please check you had install .NET MAUI workload in Visual Studio 2022 / 如果你要使用 .NET MAUI, 請確定你已經在 Visual Studio 中安裝 .NET MAUI 的工作負載
 
-Please, blowse to `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\C#` folder. Create two folders, one named `.NET MAUI` another one named `Xamarin.Forms`.  
-請先到 `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\C#` 資料夾中，建立名稱為 `.NET MAUI` 資料夾與 `Xamarin.Forms` 資料夾。  
+2. Create a folder named "C#" in this folder.  
+   在此資料夾中建立一個命名為 "C#" 的資料夾。
 
-Copy **.NET MAUI Empty Shell Template.zip** file to `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\C#\.NET MAUI` folder.  
-將 **.NET MAUI 的 Shell 空白樣板.zip** 檔案複製到 `%USERPROFILE%\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\.NET MAUI` 資料夾中。  
+#### if you just want use Xamarin.Forms, no .NET MAUI
+#### 如果你只有使用 Xamarin.Forms 沒有要用 .NET MAUI
+
+3. Copy **Xamarin.Forms Empty Shell Template.zip** file to `%USERPROFILE%\Documents\Visual Studio 2022\Templates\ItemTemplates\C#` folder.  
+   將此 **Xamarin.Forms Shell 的空白樣板.zip** 檔案複製到 `%USERPROFILE%\Documents\Visual Studio 2022\Templates\ItemTemplates\C#` 資料夾中。  
+
+#### if you want to use .NET MAUI, please check you had install .NET MAUI workload in Visual Studio 2022
+#### 如果你要使用 .NET MAUI, 請確定已經在 Visual Studio 中有安裝好 .NET MAUI 的工作負載
+
+3. Create two folders, one named `.NET MAUI` another one named `Xamarin.Forms` in the "C#" folder (created by step2).  
+在先前第二步中所建立的 "C#" 資料夾中，再繼續建立名稱為 `.NET MAUI` 資料夾與 `Xamarin.Forms` 資料夾。  
+
+4. Copy **.NET MAUI Empty Shell Template.zip** file to `%USERPROFILE%\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\.NET MAUI` folder.  
+   將 **.NET MAUI 的 Shell 空白樣板.zip** 檔案複製到 `%USERPROFILE%\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\.NET MAUI` 資料夾中。  
   
-Copy **Xamarin.Forms Empty Shell Template.zip** file to `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\C#\Xamarin.Forms` folder.  
-將 **Xamarin.Forms Shell 的空白樣板.zip** 檔案複製到 `%USERPROFILE%\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\Xamarin.Forms` 資料夾中。  
+5. Copy **Xamarin.Forms Empty Shell Template.zip** file to `%USERPROFILE%\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\Xamarin.Forms` folder.  
+   將 **Xamarin.Forms Shell 的空白樣板.zip** 檔案複製到 `%USERPROFILE%\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\Xamarin.Forms` 資料夾中。  
 
   
 ### Visual Studio 2019
